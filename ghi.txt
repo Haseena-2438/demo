@@ -1,3 +1,6 @@
 class Register()
   def register():
     ............
+
+def password():
+---------
